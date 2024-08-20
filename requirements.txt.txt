@@ -1,0 +1,6 @@
+tensorflow
+transformers
+scikit-learn
+flask
+beautifulsoup4
+requests
